@@ -7,5 +7,7 @@ Requirements engineering plays an important role in the field of software engine
 * **Embodiment of user’s perspective via first person view:**  The  VR  platform  can provide first person  view so  that  software  engineers  can  see  exactly  what  the  users  see.
 ## Tools
 Unity 3D, Unity for Oculus Quest, Android SDK.
+## Instruction
+Download the project from the link below and open the file by Unity version 2019.4.15f1
 ## Download:
 VR platform https://drive.google.com/file/d/1wxibm-N4XX-VadBrYWjjr220tCR0RE76/view?usp=sharing
