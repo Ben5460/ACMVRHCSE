@@ -5,8 +5,8 @@ Requirements engineering plays an important role in the field of software engine
 * **Automated generation of 3D avatars based on user personas:** Features of a persona such as age, gender, height and weight. Can be automatically extracted from the textual data and used in the creation of the 3D avatars in platform.
 * **Simulation of different environments and user conditions:** The platform is able to simulate various environments under different settings such as indoor, outdoor, and special weather conditions.Meanwhile, for users with special conditions, for example, colourblindness, the platform is able to simulate the environment in way that is consistent with the view and feelings of users with special conditions.
 * **Embodiment of user’s perspective via first person view:**  The  VR  platform  can provide first person  view so  that  software  engineers  can  see  exactly  what  the  users  see.
-## Tools
-Unity 3D, Unity for Oculus Quest, Android SDK.
+## Tools and Dependencies
+Unity 3D, Windows, Steam, SteamVR, VivePort, HTC Vive.
 ## Instruction
 Download the project from the link below and open the file by Unity version 2019.4.15f1
 ## Download:
